@@ -1,1 +1,1 @@
-(https://github.com/marczykv/Challenge-1)
+https://github.com/marczykv/Challenge-1
